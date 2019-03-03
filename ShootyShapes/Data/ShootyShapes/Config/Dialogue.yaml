@@ -1,0 +1,11 @@
+dialogue:
+- roundNumber: 1
+  asset: Dialogue1.txt
+- roundNumber: 2
+  asset: Dialogue2.txt
+- roundNumber: 4
+  asset: Dialogue3.txt
+- roundNumber: 6
+  asset: Dialogue4.txt
+- roundNumber: 8
+  asset: Dialogue5.txt

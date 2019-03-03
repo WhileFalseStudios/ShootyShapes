@@ -1,0 +1,3 @@
+Welcome to Shooty Shapes! This will be a development commentary on the game in our one year of development.
+Shooty Shapes has been modified to align with our publisher, DA Games, so the game has been evolved to fit their vision.
+If there are any questions, I can be reached at whilefalse@gmail.com.

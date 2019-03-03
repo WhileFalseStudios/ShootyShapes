@@ -1,0 +1,3 @@
+We originally planned for a large scale multiplayer experience, but after playtesting we decided that a more streamlined gameplay loop would be better for a larger target audience.
+While the co-op framework is there, we found the new mobile market was not very compatible with even co-op as players would kill each other for the enemy.
+Hence, the game has evolved to only have a single player implementation.

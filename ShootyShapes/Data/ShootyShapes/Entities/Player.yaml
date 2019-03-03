@@ -1,0 +1,19 @@
+ShootyShapes.Components.Position:
+  Value:
+    X: 0
+    Y: 0
+ShootyShapes.Components.Rotation:
+  Value: 0
+ShootyShapes.Components.Scale:
+  Value: 1
+ShootyShapes.Components.Velocity:
+  Value:
+    X: 0
+    Y: 0
+ShootyShapes.Components.Player:
+  Health: 2
+ShootyShapes.Components.ParticleEmitter:
+  Burst: false
+  Rate: 10
+  EmitDirection: 180
+  EmitAngle: 60

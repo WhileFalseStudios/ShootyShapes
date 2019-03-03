@@ -1,0 +1,3 @@
+After playtesting, it was found that we needed a more highly engaging gameplay loop that encouraged long term player retention rates, hence a centralised reward system was added.
+The shop feature accomplishes this by giving players rewards for their kills, giving a sense of progression.
+However, story elements have been replaced to incorporate a more complete mechanically driven experience after focus group analysis.

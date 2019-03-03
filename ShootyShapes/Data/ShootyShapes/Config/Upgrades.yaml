@@ -1,0 +1,17 @@
+damageUpgrades:
+- amount: 1
+  cost: 30
+- amount: 1
+  cost: 50
+- amount: 1
+  cost: 80
+  
+speedUpgrades:
+- amount: 1
+  cost: 30
+- amount: 1
+  cost: 50
+- amount: 1
+  cost: 80
+- amount: 1
+  cost: 100

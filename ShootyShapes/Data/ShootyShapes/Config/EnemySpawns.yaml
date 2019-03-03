@@ -1,0 +1,13 @@
+spawns:
+  - entity: Entities/PatrolEnemy
+    spawnChance: 0.3
+    difficultyScale: 0
+  - entity: Entities/ShooterEnemy
+    spawnChance: 0.45
+    difficultyScale: 10
+  - entity: Entities/SpeedyEnemy
+    spawnChance: 0.4
+    difficultyScale: 30
+  - entity: Entities/BombEnemy
+    spawnChance: 0.5
+    difficultyScale: 50

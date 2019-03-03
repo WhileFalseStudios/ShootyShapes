@@ -1,0 +1,3 @@
+The arena scene was added fairly late in development, after hearing from our publisher that they wanted a more ‘replayable’ experience.
+While previously we were aiming for a story driven narrative with complex, 3D graphics, the new mobile specification required us to adopt a low poly art style that could be run on phones.
+This drove the previous 5 FPS average performance back up to 60 FPS.
